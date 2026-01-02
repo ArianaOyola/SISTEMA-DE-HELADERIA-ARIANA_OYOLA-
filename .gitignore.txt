@@ -1,0 +1,14 @@
+# Ignorar archivos compilados de Java
+*.class
+/build/
+/dist/
+
+# Ignorar archivos de configuración de NetBeans/IDE (Opcional, pero recomendado)
+nbproject/private/
+
+# Ignorar posibles volcados de base de datos (archivos .sql)
+*.sql
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
